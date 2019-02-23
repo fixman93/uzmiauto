@@ -29,11 +29,12 @@ class Authen extends Component {
         var err = "Welcome back " + user.user.email
         this.setState({ err })
       })
-    promise.catch(e => {
-      var err = e.message
-      console.log(err)
-      this.setState({ err })
-    })
+    promise
+      .catch(e => {
+        var err = e.message
+        console.log(err)
+        this.setState({ err })
+      })
     console.log('user: ', promise)
   }
 
