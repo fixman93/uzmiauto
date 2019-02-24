@@ -1,8 +1,8 @@
 export const FirebaseConfig = {
-  apiKey: "AIzaSyCM2lqMfWg1NNtTf6caURCixXSf5sDuOsw",
-  authDomain: "usurvey-3e521.firebaseapp.com",
-  databaseURL: "https://usurvey-3e521.firebaseio.com",
-  projectId: "usurvey-3e521",
-  storageBucket: "usurvey-3e521.appspot.com",
-  messagingSenderId: "536079421504"
+  apiKey: "AIzaSyD5Iv0Qbc0DC3uI8hARnYvDsNcAKKYJYtg",
+  authDomain: "uzmiauto.firebaseapp.com",
+  databaseURL: "https://uzmiauto.firebaseio.com",
+  projectId: "uzmiauto",
+  storageBucket: "uzmiauto.appspot.com",
+  messagingSenderId: "1060244029456"
 };
